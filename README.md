@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
-<a href="https://app.daily.dev/mamadaghaei"><img src="https://github.com/MrAghaei/MrAghaei/blob/main/devcard.svg" width="300" alt="Mamad Aghaei's Dev Card"/></a>
+<a href="https://www.instagram.com/mammad.aghaei/?igsh=MWJxejFqcW1yNGFqYw%3D%3D">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<!-- <a href="https://app.daily.dev/mamadaghaei"><img src="https://github.com/MrAghaei/MrAghaei/blob/main/devcard.svg" width="300" alt="Mamad Aghaei's Dev Card"/></a> -->
 
