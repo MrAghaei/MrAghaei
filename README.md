@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>🔭 I’m currently working on Kheradkhan</p>
+https://api.githubtrends.io/user/svg/MrAghaei/langs?time_range=one_year&loc_metric=changed&theme=dark
 <a href="https://www.instagram.com/mammad.aghaei/?igsh=MWJxejFqcW1yNGFqYw%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
