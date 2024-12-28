@@ -32,7 +32,7 @@
     <a href="https://t.me/Mamad_Aghaei">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://mohammad-aghaei.vercel.app/">
+    <a href="https://mohammadaghaei.vercel.app/">
         <img src="https://img.shields.io/badge/Personal%20Website-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Personal Website" />
     </a>
 </div>
