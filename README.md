@@ -2,10 +2,10 @@
 **MrAghaei/MrAghaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi, I'm Mohammadreza Aghaei 👋</h1>
+<h1 align="center">Hi, I'm Mohammad, front-end developer 👋</h1>
 
 <p align="center">
-    🔭 I’m currently working on <strong>Kheradkhan</strong>  
+  
 </p>
 
 ---
@@ -39,10 +39,3 @@
 
 ---
 
-### 🏆 DevCard:
-
-<div align="center">
-    <a href="https://app.daily.dev/mamadaghaei">
-        <img src="https://github.com/MrAghaei/MrAghaei/blob/main/devcard.svg" width="300" alt="Mamad Aghaei's Dev Card" />
-    </a>
-</div>
