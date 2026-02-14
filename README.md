@@ -25,13 +25,13 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github.com/MrAghaei/MrAghaei/blob/metrics/github-metrics.svg" alt="MrAghaei's Metrics" width="800" />
+  <img src="https://raw.githubusercontent.com/MrAghaei/MrAghaei/metrics/github-metrics.svg" alt="MrAghaei's Metrics" width="800" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/MrAghaei/MrAghaei/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="800" />
+  <img src="https://raw.githubusercontent.com/MrAghaei/MrAghaei/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="800" />
 </div>
 
 ---
