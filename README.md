@@ -1,34 +1,44 @@
-<!--
-**MrAghaei/MrAghaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
+  <h1 align="center">Hi, I'm Mohammad 👋</h1>
+  <h3 align="center">Front-end Engineer</h3>
+  <p align="center">
+    Building polished web experiences with <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.
+    <br/>
+    <i>Linux Enthusiast & Open Source Contributor</i>
+  </p>
+</div>
 
-<h1 align="center">Hi, I'm Mohammad, a Front-end Engineer 👋</h1>
+<br/>
 
-<p align="center">
-  
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<br/>
 
 ---
 
-### 🛠️ My GitHub Stats:
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=MrAghaei&show_icons=true&theme=dark" alt="MrAghaei's GitHub stats" height="165" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAghaei&show_icons=true&theme=dark&layout=compact" alt="Top Languages" height="165" />
-    </a>
+  <img src="https://github.com/MrAghaei/MrAghaei/blob/metrics/github-metrics.svg" alt="MrAghaei's Metrics" width="800" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/MrAghaei/MrAghaei/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="800" />
 </div>
 
 ---
 
-### 🌐 Connect With Me:
+<h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
-    <!-- <a href="https://www.instagram.com/mammad.aghaei/?igsh=MWJxejFqcW1yNGFqYw%3D%3D">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a> -->
     <a href="https://t.me/Mamad_Aghaei">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
@@ -36,6 +46,3 @@
         <img src="https://img.shields.io/badge/Personal%20Website-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Personal Website" />
     </a>
 </div>
-
----
-
