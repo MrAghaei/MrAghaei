@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  # Update daily at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # Allow manual trigger
+  workflow_dispatch:
+  # Update when pushing to master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: MrAghaei
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Tehran
