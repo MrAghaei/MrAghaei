@@ -2,7 +2,7 @@
 **MrAghaei/MrAghaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi, I'm Mohammad, front-end developer 👋</h1>
+<h1 align="center">Hi, I'm Mohammad, a Front-end Engineer 👋</h1>
 
 <p align="center">
   
@@ -26,9 +26,9 @@
 ### 🌐 Connect With Me:
 
 <div align="center">
-    <a href="https://www.instagram.com/mammad.aghaei/?igsh=MWJxejFqcW1yNGFqYw%3D%3D">
+    <!-- <a href="https://www.instagram.com/mammad.aghaei/?igsh=MWJxejFqcW1yNGFqYw%3D%3D">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+    </a> -->
     <a href="https://t.me/Mamad_Aghaei">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
