@@ -28,11 +28,6 @@
   <img src="https://raw.githubusercontent.com/MrAghaei/MrAghaei/refs/heads/main/github-metrics.svg" alt="MrAghaei's Metrics" width="800" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MrAghaei/MrAghaei/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="800" />
-</div>
 
 ---
 
