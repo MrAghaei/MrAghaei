@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm Mohammad 👋</h1>
   <h3 align="center">Front-end Engineer</h3>
   <p align="center">
-    Building polished web experiences with <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.
+    Building polished web experiences with <b>React</b>, <b>TypeScript</b>, <b>Tailwind CSS</b> , and <b>Nest.js</b>.
     <br/>
     <i>Linux Enthusiast & Open Source Contributor</i>
   </p>
