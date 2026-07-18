@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Mohammad 👋</h1>
+  <h1 align="center">Hi, I'm Mamad 👋</h1>
   <h3 align="center">Full-stack Engineer</h3>
   <p align="center">
     Building polished web experiences with <b>React</b>, <b>TypeScript</b>, <b>Tailwind CSS</b> , and <b>Nest.js</b>.
