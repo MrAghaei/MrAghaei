@@ -25,7 +25,7 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MrAghaei/MrAghaei/refs/heads/main/github-metrics.svg" alt="MrAghaei's Metrics" width="800" />
+  <img src="https://raw.githubusercontent.com/MrAghaei/MrAghaei/refs/heads/main/github-metrics.svg" alt="MrAghaei's Metrics" width="500" />
 </div>
 
 
