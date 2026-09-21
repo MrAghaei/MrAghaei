@@ -5,6 +5,18 @@
     Building polished web experiences with <b>React</b>, <b>TypeScript</b>, <b>Tailwind CSS</b> , and <b>Nest.js</b>.
     <br/>
     <i>Linux Enthusiast & Open Source Contributor</i>
+    <br/>
+    <p>
+      <p>💚 I write about code and life on Telegram:</p>
+  <p align="center">
+  <a href="https://t.me/notesfrommamad" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Notes%20from%20Mamad-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Notes from Mamad on Telegram"
+    />
+  </a>
+</p>
+</p>
   </p>
 </div>
 
